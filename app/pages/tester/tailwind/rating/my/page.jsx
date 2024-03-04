@@ -8,7 +8,7 @@ export default function MyRating() {
           class
           className="text-3xl text-black p-5 justify-center align-middle flex "
         >
-          Your opinion matters to us!
+          Your opinion matters to us!!
         </div>
         <div className="bg-gray-800 text-white flex flex-col p-10">
           <div className="flex align-middle justify-center">

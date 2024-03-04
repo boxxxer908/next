@@ -8,7 +8,7 @@ export default function Test() {
           <div class="bg-white min-w-1xl flex flex-col rounded-xl shadow-lg">
             <div class="px-12 py-5">
               <h2 class="text-gray-800 text-3xl font-semibold">
-                Your opinion matters to us!
+                Your opinion matters to us!!!
               </h2>
             </div>
             <div class="bg-gray-200 w-full flex flex-col items-center">
